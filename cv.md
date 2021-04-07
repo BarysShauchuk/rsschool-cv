@@ -2,14 +2,14 @@
 Barys Shauchuk
 
 <h2><b>Contacts:</b></h2>
+<ul>
+<li><b>E-mail: </b><a href="mailto:borshevchukn@gmail.com">borshevchukn@gmail.com</a></li>
 
-<b>E-mail: </b><a href="mailto:borshevchukn@gmail.com">borshevchukn@gmail.com</a>
-<br />
-<b>Facebook: </b><a href="https://www.facebook.com/barys.shauchuk">https://www.facebook.com/barys.shauchuk</a>
-
+<li><b>Facebook: </b><a href="https://www.facebook.com/barys.shauchuk">https://www.facebook.com/barys.shauchuk</a></li>
+</ul>
 <h2>Summary</h2>
 
-<p>I am studying at Vytautas Magnus University in the "Informatics Systems" program in the second semester. Do I want to become a specialist in my field? Of course! I have always been attracted to solving complex problems and researching materials for their solution. I need practice, I need opportunities. So, this course, I think, is what I need.</p>
+<p><i>I am studying at Vytautas Magnus University in the "Informatics Systems" program in the second semester. Do I want to become a specialist in my field? Of course! I have always been attracted to solving complex problems and researching materials for their solution. I need practice, I need opportunities. So, this course, I think, is what I need.</i></p>
 
 <h2><b>Skills:</b></h2>
 <ul>
