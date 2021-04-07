@@ -12,20 +12,20 @@ Barys Shauchuk
 <p>I am studying at Vytautas Magnus University in the "Informatics Systems" program in the second semester. Do I want to become a specialist in my field? Of course! I have always been attracted to solving complex problems and researching materials for their solution. I need practice, I need opportunities. So, this course, I think, is what I need.</p>
 
 <h2><b>Skills:</b></h2>
-
-Python, 
-basic C++, 
-basic JS, 
-basic HTML, 
-basic CSS, 
-
+<ul>
+<li>Python</li>
+<li>basic C++</li>
+<li>basic JS</li>
+<li>basic HTML</li>
+<li>basic CSS</li>
+</ul>
 
 <h2><b>Language skills:</b></h2>
-
-Russian (native), 
-English (B1), 
-German (A1)
-
+<ul>
+<li>Russian (native)</li>
+<li>English (B1)</li>
+<li>German (A1)</li>
+</ul>
 
 <h2><b>English practice</b></h2>
 <p>I study at university in English</p>
